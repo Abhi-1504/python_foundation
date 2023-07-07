@@ -14,7 +14,7 @@ Below are the topics that would be covered in the Python Foundation Course
 * Declaring and using variables
 * Built-in data types (integers, floats, strings, booleans, etc.)
 * Type conversion and type casting
-* Arithmetic, comparison, and logical operators
+* Arithmetic, comparison, logical, bitwise, membership and identity operators
 
 ## Control Flow:
 
